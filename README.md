@@ -1,0 +1,5 @@
+- 👋 Hi, we are @pointerglobal
+- We are a team of developers, focused on mobile development and website development.
+- We can collaborate with any kinds of tasks
+- Right now we are running our own service - https://delivery.pointer.global - SaaS solution for delivery.
+- You can reach us by emailing on hello@pointer.global or via our website - https://pointer.global
